@@ -1,4 +1,4 @@
-# WorkAlarm
+# SMS-Alarm
 
 - Android application in Java
 - Gets SMS messages which match the pattern from the inbox 
